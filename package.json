@@ -1,0 +1,21 @@
+{
+  "name": "@sylphx/reader-evidence",
+  "version": "0.0.0",
+  "description": "Shared evidence and provenance schemas for Sylphx Reader MCP packages.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylphxAI/reader-evidence.git"
+  },
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "echo bootstrap && exit 0"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
