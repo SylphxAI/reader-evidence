@@ -14,6 +14,8 @@ One schema home for:
 
 Bootstrap — TypeScript types and JSON Schema drafts; consumers adopt incrementally.
 
+SOTA family roadmap: [docs/roadmap/sota-family-roadmap.md](docs/roadmap/sota-family-roadmap.md).
+
 ## License
 
 MIT © SylphxAI
